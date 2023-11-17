@@ -7,6 +7,7 @@ Teaching Assistants:
 - Rohit Tondare
 
 Students:
+- Connor McEleney
 
 - Max Meoli
 
@@ -17,4 +18,3 @@ Students:
 - Ritika Gurjar
 
 - Kyle Murrah
-

@@ -7,4 +7,8 @@ Teaching Assistants:
 - Rohit Tondare
 
 Students:
+
 - Ritika Gurjar
+
+- Kyle Murrah
+

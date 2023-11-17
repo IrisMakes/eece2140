@@ -8,3 +8,13 @@ Teaching Assistants:
 
 Students:
 - Connor McEleney
+
+- Max Meoli
+
+- Reegan Ng
+
+- Matthew Kalinosky
+
+- Ritika Gurjar
+
+- Kyle Murrah

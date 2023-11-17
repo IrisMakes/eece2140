@@ -15,6 +15,9 @@ Students:
 
 - Matthew Kalinosky
 
+- Augustine N
+
 - Ritika Gurjar
 
 - Kyle Murrah
+

@@ -7,4 +7,4 @@ Teaching Assistants:
 - Rohit Tondare
 
 Students:
-#Max Meoli
+- Max Meoli

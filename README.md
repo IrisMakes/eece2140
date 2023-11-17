@@ -8,7 +8,9 @@ Teaching Assistants:
 
 Students:
 
--Matthew Kalinosky
+- Reegan Ng
+
+- Matthew Kalinosky
 
 - Ritika Gurjar
 

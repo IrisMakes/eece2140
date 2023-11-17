@@ -7,4 +7,14 @@ Teaching Assistants:
 - Rohit Tondare
 
 Students:
+
 - Max Meoli
+
+- Reegan Ng
+
+- Matthew Kalinosky
+
+- Ritika Gurjar
+
+- Kyle Murrah
+

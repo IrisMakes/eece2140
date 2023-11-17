@@ -8,6 +8,8 @@ Teaching Assistants:
 
 Students:
 
+- Jess Taddeo
+
 -Matthew Kalinosky
 
 - Ritika Gurjar

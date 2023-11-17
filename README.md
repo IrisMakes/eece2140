@@ -8,7 +8,10 @@ Teaching Assistants:
 
 Students:
 
+-Matthew Kalinosky
+
 - Ritika Gurjar
 
 - Kyle Murrah
+
 

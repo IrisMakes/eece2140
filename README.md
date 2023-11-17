@@ -8,6 +8,8 @@ Teaching Assistants:
 
 Students:
 
+- Max Meoli
+
 - Reegan Ng
 
 - Matthew Kalinosky
@@ -15,5 +17,4 @@ Students:
 - Ritika Gurjar
 
 - Kyle Murrah
-
 

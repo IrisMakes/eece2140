@@ -9,6 +9,8 @@ Teaching Assistants:
 Students:
 - Connor McEleney
 
+- Jess Taddeo
+
 - Max Meoli
 
 - Reegan Ng

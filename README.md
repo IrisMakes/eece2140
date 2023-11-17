@@ -7,4 +7,11 @@ Teaching Assistants:
 - Rohit Tondare
 
 Students:
+
 -Matthew Kalinosky
+
+- Ritika Gurjar
+
+- Kyle Murrah
+
+

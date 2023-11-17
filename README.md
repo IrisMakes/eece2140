@@ -7,11 +7,17 @@ Teaching Assistants:
 - Rohit Tondare
 
 Students:
+- Connor McEleney
 
--Matthew Kalinosky
+- Max Meoli
+
+- Reegan Ng
+
+- Matthew Kalinosky
+
+- Augustine N
 
 - Ritika Gurjar
 
 - Kyle Murrah
 
--Augustine N

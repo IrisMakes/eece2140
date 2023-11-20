@@ -18,12 +18,16 @@ Students:
 - Matthew Kalinosky
 
 - Augustine N
-
+- Erin Choudhari
 - Ritika Gurjar
 
 - Kyle Murrah
 
+- Aniket Sarkar
 
+- Jackson Knapp
 
+- Ojasvi Mukkoti
 
--Aniket Sarkar
+- Iris Kaucher
+

@@ -23,7 +23,9 @@ Students:
 
 - Kyle Murrah
 
+
+- Jackson Knapp
+
 - Ojasvi Mukkoti
 
 - Iris Kaucher
-
